@@ -3,10 +3,10 @@ How to Run (Local Machine)
 python sequential.py
 
 2. Multiprocessing Version
-python multiprocessing_version.py
+python multiprocessing_version.py --seq_time x.xx
 
 3. concurrent.futures Version
-python futures_version.py
+python futures_version.py --seq_time x.xx
 
 Performance Evaluation
 
